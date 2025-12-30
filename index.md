@@ -1,4 +1,4 @@
 ---
-title: My GitHub Pages Site
+title: My Blog Title
 ---
 
