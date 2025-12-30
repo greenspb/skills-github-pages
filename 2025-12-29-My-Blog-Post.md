@@ -1,5 +1,5 @@
 ---
-title: "My-GitHub-Pages-Site"
+title: "My Blog Post"
 date: 2025-12-29
 ---
 
