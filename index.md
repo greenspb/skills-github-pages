@@ -1,4 +1,4 @@
 ---
-title: My Blog Title
+title: IndexTitle
 ---
 
