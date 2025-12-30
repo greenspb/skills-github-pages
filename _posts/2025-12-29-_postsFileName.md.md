@@ -1,5 +1,5 @@
 ---
-title: "My-Github-Pages-Site"
+title: "_postsHeaderName"
 date: 2025-12-29
 ---
 
